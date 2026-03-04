@@ -1,3 +1,4 @@
+#Exercise2: Free Oscillation of Mass-Spring-Damper
 import matplotlib.pyplot as plt
 
 class Oscillator:
